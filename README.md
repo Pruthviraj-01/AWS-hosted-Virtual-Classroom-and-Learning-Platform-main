@@ -102,4 +102,4 @@ This project showcases how web applications can be effectively deployed and scal
 ## 🔗 Demo and Source Code
 
 - 🎥 [Demo Video]
-- 🧾 [GitHub Repository]
+- 🧾 [GitHub Repository]https://github.com/Pruthviraj-01/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main
