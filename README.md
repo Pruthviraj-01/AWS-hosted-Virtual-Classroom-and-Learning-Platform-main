@@ -16,7 +16,7 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 │   └── Final document.pdf
 ├── static/
 ├── templates/
-│   ├── content.html
+│   ├── courses.html
 │   ├── home.html
 │   ├── login.html
 │   └── register.html
@@ -101,5 +101,5 @@ This project showcases how web applications can be effectively deployed and scal
 
 ## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1LB_YXHSry8S5PD3ijs0IP8p0HA5zYZA6/view?usp=drive_link)  
-- 🧾 [GitHub Repository](https://github.com/RohanAnekar/AWS-hosted-Virtual-Classroom-and-Learning-Platform.git)
+- 🎥 [Demo Video](https://drive.google.com/file/d/14J5VPIWLiECSB9Bj8SalMVy9RtUZWrvS/view?usp=drive_link)
+- 🧾 [GitHub Repository](https://github.com/Pruthviraj-01/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main.git)
